@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="firework_photon_radius">2dp</dimen>
+    <dimen name="firework_photon_x_param">50dp</dimen>
+    <dimen name="firework_photon_y_param1">60dp</dimen>
+    <dimen name="firework_photon_y_param2">3dp</dimen>
+
+    <dimen name="marble_max_distance">50dp</dimen>
+    <dimen name="marble_max_circle_radius">5dp</dimen>
+</resources>

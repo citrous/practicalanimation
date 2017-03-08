@@ -1,0 +1,156 @@
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:drawable="@drawable/vector_drawable">
+    <target android:name="group">
+        <aapt:attr name="android:animation">
+            <set xmlns:android="http://schemas.android.com/apk/res/android">
+                <objectAnimator
+                    android:name="group"
+                    android:propertyName="scaleX"
+                    android:duration="250"
+                    android:valueFrom="1"
+                    android:valueTo="0.5"
+                    android:valueType="floatType"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+                <objectAnimator
+                    android:name="group"
+                    android:propertyName="scaleY"
+                    android:duration="250"
+                    android:valueFrom="1"
+                    android:valueTo="0.5"
+                    android:valueType="floatType"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+                <objectAnimator
+                    android:name="group"
+                    android:propertyName="scaleX"
+                    android:startOffset="250"
+                    android:duration="250"
+                    android:valueFrom="0.5"
+                    android:valueTo="1.2"
+                    android:valueType="floatType"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+                <objectAnimator
+                    android:name="group"
+                    android:propertyName="scaleY"
+                    android:startOffset="250"
+                    android:duration="250"
+                    android:valueFrom="0.5"
+                    android:valueTo="1.2"
+                    android:valueType="floatType"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+                <objectAnimator
+                    android:name="group"
+                    android:propertyName="scaleX"
+                    android:startOffset="500"
+                    android:duration="250"
+                    android:valueFrom="1.2"
+                    android:valueTo="0.8"
+                    android:valueType="floatType"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+                <objectAnimator
+                    android:name="group"
+                    android:propertyName="scaleY"
+                    android:startOffset="500"
+                    android:duration="250"
+                    android:valueFrom="1.2"
+                    android:valueTo="0.8"
+                    android:valueType="floatType"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+                <objectAnimator
+                    android:name="group"
+                    android:propertyName="scaleX"
+                    android:startOffset="750"
+                    android:duration="250"
+                    android:valueFrom="0.8"
+                    android:valueTo="1"
+                    android:valueType="floatType"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+                <objectAnimator
+                    android:name="group"
+                    android:propertyName="scaleY"
+                    android:startOffset="750"
+                    android:duration="250"
+                    android:valueFrom="0.8"
+                    android:valueTo="1"
+                    android:valueType="floatType"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+            </set>
+        </aapt:attr>
+    </target>
+    <target android:name="group_1">
+        <aapt:attr name="android:animation">
+            <set xmlns:android="http://schemas.android.com/apk/res/android">
+                <objectAnimator
+                    android:name="group_1"
+                    android:propertyName="scaleX"
+                    android:duration="250"
+                    android:valueFrom="0"
+                    android:valueTo="1"
+                    android:valueType="floatType"
+                    android:interpolator="@android:anim/linear_interpolator"/>
+                <objectAnimator
+                    android:name="group_1"
+                    android:propertyName="scaleY"
+                    android:duration="250"
+                    android:valueFrom="0"
+                    android:valueTo="1"
+                    android:valueType="floatType"
+                    android:interpolator="@android:anim/linear_interpolator"/>
+            </set>
+        </aapt:attr>
+    </target>
+    <target android:name="path_2">
+        <aapt:attr name="android:animation">
+            <objectAnimator
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:name="path_2"
+                android:propertyName="fillAlpha"
+                android:duration="250"
+                android:valueFrom="1"
+                android:valueTo="0"
+                android:valueType="floatType"
+                android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+        </aapt:attr>
+    </target>
+    <target android:name="path_3">
+        <aapt:attr name="android:animation">
+            <objectAnimator
+                android:name="path_3"
+                android:propertyName="fillAlpha"
+                android:startOffset="250"
+                android:duration="250"
+                android:valueFrom="0"
+                android:valueTo="1"
+                android:valueType="floatType"
+                android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+        </aapt:attr>
+    </target>
+    <target android:name="path_4">
+        <aapt:attr name="android:animation">
+            <objectAnimator
+                android:name="path_4"
+                android:propertyName="fillAlpha"
+                android:startOffset="250"
+                android:duration="250"
+                android:valueFrom="0"
+                android:valueTo="1"
+                android:valueType="floatType"
+                android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+        </aapt:attr>
+    </target>
+    <target android:name="path_1">
+        <aapt:attr name="android:animation">
+            <objectAnimator
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:name="path_1"
+                android:propertyName="fillAlpha"
+                android:startOffset="500"
+                android:duration="250"
+                android:valueFrom="0.2"
+                android:valueTo="0"
+                android:valueType="floatType"
+                android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+        </aapt:attr>
+    </target>
+</animated-vector>
