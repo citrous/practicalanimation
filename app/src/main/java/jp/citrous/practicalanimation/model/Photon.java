@@ -1,4 +1,4 @@
-package jp.citrous.practicalanimation.view;
+package jp.citrous.practicalanimation.model;
 
 import android.graphics.Paint;
 

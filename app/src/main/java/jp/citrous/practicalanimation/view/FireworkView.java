@@ -13,6 +13,7 @@ import android.view.animation.AccelerateDecelerateInterpolator;
 import java.util.Random;
 
 import jp.citrous.practicalanimation.R;
+import jp.citrous.practicalanimation.model.Photon;
 
 /**
  * Created by citrous on 2017/03/04.

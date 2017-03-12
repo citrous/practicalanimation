@@ -23,6 +23,7 @@
         <activity android:name="jp.citrous.practicalanimation.ObjectAnimatorSampleActivity"/>
         <activity android:name="jp.citrous.practicalanimation.FireworkAnimationActivity"/>
         <activity android:name="jp.citrous.practicalanimation.MarbleAnimationActivity"/>
+        <activity android:name="jp.citrous.practicalanimation.PlayPauseAnimationSampleActivity"/>
     </application>
 
 </manifest>

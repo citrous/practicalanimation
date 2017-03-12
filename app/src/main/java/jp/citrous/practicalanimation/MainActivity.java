@@ -17,7 +17,8 @@ public class MainActivity extends AppCompatActivity {
             AnimatedVectorDrawableSampleActivity.class,
             ObjectAnimatorSampleActivity.class,
             FireworkAnimationActivity.class,
-            MarbleAnimationActivity.class
+            MarbleAnimationActivity.class,
+            PlayPauseAnimationSampleActivity.class
     };
 
     @Override

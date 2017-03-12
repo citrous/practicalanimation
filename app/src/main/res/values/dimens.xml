@@ -10,4 +10,22 @@
 
     <dimen name="marble_max_distance">50dp</dimen>
     <dimen name="marble_max_circle_radius">5dp</dimen>
+
+    <dimen name="start_icon1_left">37.5dp</dimen>
+    <dimen name="start_icon1_top">25dp</dimen>
+    <dimen name="start_icon1_bottom">75dp</dimen>
+    <dimen name="start_icon1_right">55dp</dimen>
+    <dimen name="start_icon2_left">55dp</dimen>
+    <dimen name="start_icon2_top">37.5dp</dimen>
+    <dimen name="start_icon2_bottom">62.5dp</dimen>
+    <dimen name="start_icon2_right">72.5dp</dimen>
+
+    <dimen name="pause_icon1_left">37.5dp</dimen>
+    <dimen name="pause_icon1_top">25dp</dimen>
+    <dimen name="pause_icon1_right">47.5dp</dimen>
+    <dimen name="pause_icon1_bottom">75dp</dimen>
+    <dimen name="pause_icon2_left">55dp</dimen>
+    <dimen name="pause_icon2_top">25dp</dimen>
+    <dimen name="pause_icon2_right">65dp</dimen>
+    <dimen name="pause_icon2_bottom">75dp</dimen>
 </resources>
